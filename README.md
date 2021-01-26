@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**davidmfinol/davidmfinol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm David. Feel free to check out my portfolio at [https://davidmfinol.me/](https://davidmfinol.me/)
 
-Here are some ideas to get you started:
+## 🔭 I’m currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Card Game Simulator](https://www.cardgamesimulator.com/assets/img/CGSLogo.png)](https://www.cardgamesimulator.com/)  
+
+[![game.ci](https://s.gravatar.com/avatar/50c8f69688b341095cae3755bc0720b2?s=250)](https://game.ci/)  
+
+
+## 📈 Some stats
+
+[![davidmfinol's github stats](https://github-readme-stats.vercel.app/api?username=davidmfinol)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📫 How to reach me:
+
+Email me at [davidmfinol@gmail.com](mailto:davidmfinol@gmail.com) or join me on discord at [game.ci/discord](http://game.ci/discord)
