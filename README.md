@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm David. Feel free to check out my blog and portfolio at [https://davidmfinol.website/](https://davidmfinol.website/)
+I'm David. Feel free to check out my blog and portfolio at [https://davidmfinol.website/](https://davidmfinol.com/)
 
 ## 🔭 I’m currently working on
 
